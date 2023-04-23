@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Projet_Dotnet_.Areas.Identity.Data;
+using Projet_Dotnet_.Models;
 
 namespace Projet_Dotnet_.Data;
 
@@ -12,7 +13,9 @@ public class Projet_Dotnet_DbContext : IdentityDbContext<User>
     {
 
     }
+    public DbSet<Transaction> transactions { get; set; }
 
+    public DbSet<Category> categories { get; set; }
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);

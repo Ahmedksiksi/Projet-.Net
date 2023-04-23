@@ -282,3 +282,5 @@ C:\Users\INFOKOM\Projet\Angular .Net\FullStack API\Projet_Dotnet_\Projet_Dotnet_
 C:\Users\INFOKOM\Projet\Angular .Net\FullStack API\Projet_Dotnet_\Projet_Dotnet_\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\INFOKOM\Projet\Angular .Net\FullStack API\Projet_Dotnet_\Projet_Dotnet_\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\INFOKOM\Projet\Angular .Net\FullStack API\Projet_Dotnet_\Projet_Dotnet_\obj\Debug\net7.0\Projet_Dotnet_.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\INFOKOM\Projet\Angular .Net\FullStack API\Projet_Dotnet_\Projet_Dotnet_\bin\Debug\net7.0\Syncfusion.EJ2.dll
+C:\Users\INFOKOM\Projet\Angular .Net\FullStack API\Projet_Dotnet_\Projet_Dotnet_\bin\Debug\net7.0\Syncfusion.Licensing.dll
