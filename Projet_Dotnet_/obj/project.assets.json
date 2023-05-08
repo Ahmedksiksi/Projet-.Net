@@ -11099,11 +11099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INFOKOM\\Projet-.Net\\Projet_Dotnet_\\Projet_Dotnet_.csproj",
+      "projectUniqueName": "C:\\Users\\INFOKOM\\Desktop\\Projet-.Net\\Projet_Dotnet_\\Projet_Dotnet_.csproj",
       "projectName": "Projet_Dotnet_",
-      "projectPath": "C:\\Users\\INFOKOM\\Projet-.Net\\Projet_Dotnet_\\Projet_Dotnet_.csproj",
+      "projectPath": "C:\\Users\\INFOKOM\\Desktop\\Projet-.Net\\Projet_Dotnet_\\Projet_Dotnet_.csproj",
       "packagesPath": "C:\\Users\\INFOKOM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INFOKOM\\Projet-.Net\\Projet_Dotnet_\\obj\\",
+      "outputPath": "C:\\Users\\INFOKOM\\Desktop\\Projet-.Net\\Projet_Dotnet_\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\INFOKOM\\AppData\\Roaming\\NuGet\\NuGet.Config",
